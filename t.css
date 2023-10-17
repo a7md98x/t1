@@ -1,0 +1,11 @@
+body::first-line{
+    color: tan;
+}
+#d{
+    font-size: 20px;
+    color: blue;
+}
+.a > span{
+
+    color: aqua;
+}
